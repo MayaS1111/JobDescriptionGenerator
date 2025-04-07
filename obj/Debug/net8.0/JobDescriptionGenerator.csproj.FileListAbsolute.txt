@@ -1,0 +1,7 @@
+C:\Users\WorkSpace\JobDescriptionGenerator\obj\Debug\net8.0\JobDescriptionGenerator.csproj.AssemblyReference.cache
+C:\Users\WorkSpace\JobDescriptionGenerator\obj\Debug\net8.0\JobDescriptionGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WorkSpace\JobDescriptionGenerator\obj\Debug\net8.0\JobDescriptionGenerator.AssemblyInfoInputs.cache
+C:\Users\WorkSpace\JobDescriptionGenerator\obj\Debug\net8.0\JobDescriptionGenerator.AssemblyInfo.cs
+C:\Users\WorkSpace\JobDescriptionGenerator\obj\Debug\net8.0\JobDescriptionGenerator.csproj.CoreCompileInputs.cache
+C:\Users\WorkSpace\JobDescriptionGenerator\obj\Debug\net8.0\JobDescriptionGenerator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WorkSpace\JobDescriptionGenerator\obj\Debug\net8.0\JobDescriptionGenerator.sourcelink.json
